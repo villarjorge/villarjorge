@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hello! 👋
 
 <!--
 **villarjorge/villarjorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am currently a physics undergraduate in my last year. I love getting lost in interesting problems
