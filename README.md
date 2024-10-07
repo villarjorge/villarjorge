@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently a physics undergraduate in my last year. I love getting lost in interesting problems
+I am currently a physics undergraduate in my last year. I love getting lost in interesting problems! I am currently finishing my degree, but I am also looking for internships. Feel free to reach out by email
